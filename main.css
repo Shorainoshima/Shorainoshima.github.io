@@ -73,12 +73,12 @@ a.link_list.no-icon, .link_list.no-icon a {
     width: 240px;
     padding: 15px;
     text-align: center;
-    top: 90%;
+    top: 135%;
     text-indent: 0;
     color: #fff;
     text-shadow: 0 1px 10px rgba(0, 0, 0, .5);
     font-size: 40px;
-    text-align: center;
+
     font-family: Georgia, Times, 'Times New Roman', serif;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -154,5 +154,12 @@ body {
 .item img {
 	width: 420px;
 	height: auto;
-	max-width:100%;
+
+}
+
+.item a {
+    text-decoration: none;
+    text-align: center;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: #3b8097;
 }
