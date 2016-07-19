@@ -17,12 +17,12 @@
 	<path fill="#A2A242" stroke="#A2A242" stroke-width="4.8429" stroke-miterlimit="10" d="M44.6,43.5c0-1.9-1.8-3.4-3.9-3.4
 		c-2.2,0-3.9,1.5-3.9,3.4H44.6z"/>
 	<path fill="#FFFFFF" d="M60,40.2c2.2,0,4,1.9,4,4.2v6.9l-8.1,0l0.1-6.9C56,42.1,57.8,40.2,60,40.2L60,40.2"/>
-	<path fill="#A2A242" stroke="#A2A242" stroke-width="4.8429" stroke-miterlimit="10" d="M63.9,43.6c0-1.9-1.8-3.4-3.9-3.4
+	<path fill="#A2A242" stroke="#A2A242" st stroke-width="5.2666" stroke-miterlimit="10" d="M54.3,81c0-5.6-1.8-10.2-3.9-10.2
+		c-2.2,0-3.9,4.6-3.9,10.2H54.3roke-width="4.8429" stroke-miterlimit="10" d="M63.9,43.6c0-1.9-1.8-3.4-3.9-3.4
 		c-2.2,0-3.9,1.5-3.9,3.4H63.9z"/>
 	<rect x="39.5" y="16.2" fill="#FFFFFF" width="5" height="4.3"/>
 	<rect x="57.3" y="16.2" fill="#FFFFFF" width="5" height="4.3"/>
-	<path fill="#FF5774" stroke="#FF5774" stroke-width="5.2666" stroke-miterlimit="10" d="M54.3,81c0-5.6-1.8-10.2-3.9-10.2
-		c-2.2,0-3.9,4.6-3.9,10.2H54.3z"/>
+	<path fill="#FF5774" stroke="#FF5774"z"/>
 	<path fill="#FFFFFF" d="M40.7,55.5c2.2,0,4,1.9,4,4.2v6.9l-8.1,0l0.1-6.9C36.6,57.4,38.4,55.5,40.7,55.5L40.7,55.5"/>
 	<path fill="#A2A242" stroke="#A2A242" stroke-width="4.8429" stroke-miterlimit="10" d="M44.6,58.9c0-1.9-1.8-3.4-3.9-3.4
 		c-2.2,0-3.9,1.5-3.9,3.4H44.6z"/>
